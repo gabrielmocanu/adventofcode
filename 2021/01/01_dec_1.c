@@ -11,7 +11,7 @@ int main() {
     int n;
     FILE *fp;
     char buffer[1000];
-    fp = fopen("input-1", "r");
+    fp = fopen("input_1", "r");
     if(fp == NULL) {
         perror("Failed to open the file");
         return 1;

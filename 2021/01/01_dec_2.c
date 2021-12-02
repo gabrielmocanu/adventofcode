@@ -17,7 +17,7 @@ int main() {
     char buffer[1000];
     int v[2000];
     int len;
-    fp = fopen("input-2", "r");
+    fp = fopen("input_2", "r");
     if(fp == NULL) {
         perror("Failed to open the file");
         return 1;
