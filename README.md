@@ -20,3 +20,8 @@ Most of the notes are in the code but I will add some of them here.
 I used Data structure to store every line and ok variable to see if that
 line is good(have the most common bit on k line). After one single line
 remains available construct decimal number from the binary string.
+
+### 4 December
+Neither hard nor easy. The input was a bit fucked up from my point of view, but
+the task wasn't so difficult. For the second problem to make it a bit cleaner
+and faster I added 2 more fields in the structure.
