@@ -25,3 +25,6 @@ remains available construct decimal number from the binary string.
 Neither hard nor easy. The input was a bit fucked up from my point of view, but
 the task wasn't so difficult. For the second problem to make it a bit cleaner
 and faster I added 2 more fields in the structure.
+
+### 5 December
+Good Sunday. Nothing too hard for today, the code explains itself.
