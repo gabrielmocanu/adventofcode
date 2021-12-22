@@ -45,3 +45,17 @@ way we can represent in a smarter way.
 I checked only the position between [0, max(array)] because otherwise, the fuel
 will not be minimum. For each position, I calculated the fuel and pick the 
 minimum one. Pretty intuitive problem.
+
+
+### 8 December
+TBD
+
+### 9 December
+For the first problem was pretty simple, but for the second I had to use 
+a recursive function to count every number from a basis.
+
+
+### 10 December
+This problem was very similar with the known valid parenthesses problem.
+There is nothing special that I did.
+
