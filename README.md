@@ -70,6 +70,11 @@ Read calories and sort them in descending order.
 Apply logic for the game. Nothing special.
 
 ### 3 December
+For the first problem I found the character in both part of the string 
+and then add the priority to score. Found out the the ternary operator
+doesn't exists in Go. :(
+For the second problem I just parse the line from 3 to 3 and apply the
+same logic.
 
 ### Operating Systems
 
