@@ -59,3 +59,22 @@ a recursive function to count every number from a basis.
 This problem was very similar with the known valid parenthesses problem.
 There is nothing special that I did.
 
+
+## 2022
+
+### Advent of Code
+### 1 December
+Read calories and sort them in descending order.
+
+### 2 December
+
+
+### 3 December
+
+### Operating Systems
+
+### 1 December
+
+### 2 December
+
+### 3 December
