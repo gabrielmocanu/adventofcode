@@ -67,7 +67,7 @@ There is nothing special that I did.
 Read calories and sort them in descending order.
 
 ### 2 December
-
+Apply logic for the game. Nothing special.
 
 ### 3 December
 
